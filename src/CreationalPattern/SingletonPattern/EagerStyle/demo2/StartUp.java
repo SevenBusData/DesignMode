@@ -1,4 +1,4 @@
-package CreationalPattern.SingletonPattern.EagerStyle;
+package CreationalPattern.SingletonPattern.EagerStyle.demo2;
 
 /**
  * @Description: 实现类
